@@ -6,6 +6,6 @@ public class TestClass {
 
     public void testMetod(){
 
-        System.out.println("Test metod");
+        System.out.println("Test metod_2");
     }
 }
